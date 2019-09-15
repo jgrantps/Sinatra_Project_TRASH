@@ -1,3 +1,3 @@
 class Composer < ActiveRecord::Base
 
-ends
+end

@@ -1,3 +1,3 @@
-class subcategory < ActiveRecord::Base
+class Subcategory < ActiveRecord::Base
 
 end
